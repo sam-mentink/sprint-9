@@ -1,0 +1,36 @@
+body {
+    background-color: #EFEFEF;
+}
+.drum-machine {;
+    width: 400px;
+    margin-top: 100px;
+    text-align: center;
+    font-size: 2rem;
+    position: center;
+}
+.row {
+  height: 100px;
+  width: 480px;
+  position: center;
+}
+ .three.columns {
+  width: 102px;
+  height: 102px;
+  color: white;
+  background-color: #BFBFBF;
+  padding-top: 33px;
+  align: center;
+  margin: 2px;
+  border-radius: 5px;
+}
+
+ .button {
+  width: 102px;
+  height: 102px;
+  color: white;
+  background-color: #BFBFBF;
+  padding-top: 33px;
+  align: center;
+  margin: 2px;
+  border-radius: 5px;
+}
